@@ -4,7 +4,7 @@
 Can play PIU/DDR/Pulsus/maimai if you want. 
 
 4t plywood sandwhich with 3t acylic on the top!
-It's built only for Aliexpress Chinese buttons, so other buttons wouldn't work due to height issues, unless you modify models to make put more plywoods to make height higher.
+It's built only for Aliexpress Chinese buttons, so other buttons wouldn't work due to height issues, unless you modify models to put more plywoods to make height higher.
 
 List of parts that are required :
 
