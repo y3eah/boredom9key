@@ -31,9 +31,9 @@ Link to Arduino Pro Micro
 
 Buttons are ordered like this : 
 
-|3|2|1|
-|6|5|4|
-|9|8|7|
+| 3 | 2 | 1 |
+| 6 | 5 | 4 |
+| 9 | 8 | 7 |
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 The code is based on SpeedyPotato's Pocket-sdvx : https://github.com/speedypotato/Pocket-SDVX
