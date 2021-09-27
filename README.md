@@ -1,7 +1,7 @@
 # boredom9key
 9 key controller/macro keyboard with 30mm arcade buttons that I made, simply because I was bored!
 
-Can play PIU/DDR/Pulsus/maimai if you want. 
+Can play PIU/DDR/Pulsus/maimai if you want. Uses NICOHOOD's HID NKRO library so it can press 9 keyboard buttons at once.
 
 4t plywood sandwhich with 3t acylic on the top!
 It's built only for Aliexpress Chinese buttons, so other buttons wouldn't work due to height issues, unless you modify models to put more plywoods to make height higher.
@@ -34,6 +34,20 @@ Buttons are ordered like this :
 | 3 | 2 | 1 |  
 | 6 | 5 | 4 |  
 | 9 | 8 | 7 |
+
+For the Button Keybinds : 
+
+| q | w | e |  
+| a | s | d |  
+| z | x | c |
+
+And for the pinout (Button Signal/LED) :
+
+| A3/9 | A2/8 | A1/7 |  
+| A0/6 | 15/5 | 14/4 |  
+| 16/3 | 10/2 | 1/0 | 
+
+30AWG is highly recommended because there aren't much spaces inside of controller.
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 The code is based on SpeedyPotato's Pocket-sdvx : https://github.com/speedypotato/Pocket-SDVX
