@@ -19,3 +19,12 @@ List of parts that are required :
 | 3T 145mm×145mm Acrylic | 1 |
 | 30AWG wires (recommended) | ? |
 | Aliexpress chinese buttons | 9 |
+
+Link to 30mm LED Chinese buttons
+: https://aliexpress.com/item/4001076611440.html
+
+Link to USB-B Block
+: https://aliexpress.com/item/4001279234342.html
+
+Link to Arduino Pro Micro
+: https://aliexpress.com/item/32887074671.html
